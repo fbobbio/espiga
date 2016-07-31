@@ -9,3 +9,6 @@ Technologies:
 - JAVA EE (EJB, JSF, Richfaces)
 - JBoss Application Server
 - Eclipse IDE
+
+Project exported from a former SVN repository without history track.
+This is a fork from [ezilocchi](https://github.com/ezilocchi), who was the main architect of the solution and commited the project to github.
